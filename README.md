@@ -20,13 +20,13 @@
 
 - 💬 Ask me about **Machine learning and Chatbot**
 
-- 📫 How to reach me **agboedehope4@gmail.com**
+- 📫 Reach me **agboedehope4@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Younghope09](https://github.com/Younghope09)
 
-- ⚡ Fun fact **I think I'm friendly and easy going**
+- ⚡ Fun fact **Too simple**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/young_hope09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="young_hope09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/younghope09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/younghope09/" height="30" width="40" /></a>
