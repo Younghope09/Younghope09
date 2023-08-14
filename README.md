@@ -5,27 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younghope09&label=Profile%20views&color=0e75b6&style=flat" alt="younghope09" /> </p>
 
-<p align="left"> <a href="https://twitter.com/young_hope09" target="blank"><img src="https://img.shields.io/twitter/follow/young_hope09?logo=twitter&style=for-the-badge" alt="young_hope09" /></a> </p>
-
-- 🔭 I’m currently working on [AirBnB clone - Web framework](https://github.com/Younghope09/AirBnB_clone_v4)
-
-- 🌱 I’m currently learning **Python, CSS, JAVA, HTML and C**
-
-- 👯 I’m looking to collaborate on [web_dynamic](https://github.com/Younghope09/AirBnB_clone_v4/tree/main/web_dynamic)
-
-- 🤝 I’m looking for help with [MySQL](https://github.com/Younghope09/alx-higher_level_programming/tree/main/0x0E-SQL_more_queries)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Younghope09](https://github.com/Younghope09)
-
-- 📝 I regularly write articles on [https://github.com/Younghope09](https://github.com/Younghope09)
-
-- 💬 Ask me about **Machine learning and Chatbot**
-
-- 📫 Reach me **agboedehope4@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Younghope09](https://github.com/Younghope09)
-
-- ⚡ Fun fact **Too simple**
+<p align="left"> <a href="https://twitter.com/young_hope09" target="blank"><img src="https://img.shields.io/twitter/follow/young_hope09?logo=twitter&style=for-the-badge" alt="young_hope09" /></a> </p> - 🔭 I’m currently working on [AirBnB clone - Web framework](https://github.com/Younghope09/AirBnB_clone_v4) - 🌱 I’m currently learning **Python, CSS, JAVA, HTML and C** - 👯 I’m looking to collaborate on [web_dynamic](https://github.com/Younghope09/AirBnB_clone_v4/tree/main/web_dynamic) - 🤝 I’m looking for help with [MySQL](https://github.com/Younghope09/alx-higher_level_programming/tree/main/0x0E-SQL_more_queries) - 👨‍💻 All of my projects are available at [https://github.com/Younghope09](https://github.com/Younghope09) - 📝 I regularly write articles on [https://github.com/Younghope09](https://github.com/Younghope09) - 💬 Ask me about **Machine learning and Chatbot** - 📫 Reach me **agboedehope4@gmail.com** - 📄 Know about my experiences [https://github.com/Younghope09](https://github.com/Younghope09) - ⚡ Fun fact **Too simple**
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=When+You+Have+a+Dream%2C+;You've+Got+To+Grab+it;And+Never+Let+Go+" alt="Typing SVG" /></a>
