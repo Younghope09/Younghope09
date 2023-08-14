@@ -1,3 +1,4 @@
+![image](https://github.com/Younghope09/alx-system_engineering-devops/assets/113416881/7b4c131d-f487-4cb7-8e6c-cc82d1c222fa)
 
 <h1 align="center">Hi 👋, I'm Agbo Hope</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
@@ -25,6 +26,10 @@
 - 📄 Know about my experiences [https://github.com/Younghope09](https://github.com/Younghope09)
 
 - ⚡ Fun fact **Too simple**
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=When+You+Have+a+Dream%2C+;You've+Got+To+Grab+it;And+Never+Let+Go+" alt="Typing SVG" /></a>
+</p>
 
 <h2 align="center">Connect with me:</h2>
 
